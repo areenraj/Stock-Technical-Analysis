@@ -132,7 +132,7 @@ def calcstochosc(stock):
     return perk,fast_perk
 
 stock1 = Stock("Nestle", "NESTLEIND.NS", dt.date(2022,1,1), dt.date(2022,12,31))
-stock2 = Stock("Reliance", "RELIANCE.NS", dt.date(2022,1,1), dt.date(2022,12,31))
+stock2 = Stock("Mahindra and Mahindra", "M&M.NS", dt.date(2022,1,1), dt.date(2022,12,31))
 
 stocks = [stock1,stock2]
 
