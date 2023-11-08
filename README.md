@@ -1,2 +1,2 @@
 # Stock-Technical-Analysis
-Calculates a range of tehcnical indicators for any given input stock
+Calculates a range of technical indicators for any given input stock
